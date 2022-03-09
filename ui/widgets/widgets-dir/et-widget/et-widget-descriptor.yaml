@@ -8,5 +8,5 @@ configUi:
   customElement: my-widget-config # CHANGE-IT The name of the custom-element used to render the configUI
   resources: # CHANGE-IT the file containing the config screen built artefacts
     - entando-mf-conf-template/static/js/2.5bc0160f.chunk.js
-    - entando-mf-conf-template/static/js/main.87d8a7ed.chunk.js
+    - entando-mf-conf-template/static/js/main.7716221d.chunk.js
     - entando-mf-conf-template/static/js/runtime-main.8f179080.js
