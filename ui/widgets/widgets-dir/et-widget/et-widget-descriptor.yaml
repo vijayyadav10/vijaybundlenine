@@ -9,4 +9,4 @@ configUi:
   resources: # CHANGE-IT the file containing the config screen built artefacts
     - entando-mf-conf-template/static/js/2.68bdf2cd.chunk.js
     - entando-mf-conf-template/static/js/main.b62d2339.chunk.js
-    - entando-mf-conf-template/static/js/runtime-main.0096342d.js.map
+    - entando-mf-conf-template/static/js/runtime-main.0096342d.js
